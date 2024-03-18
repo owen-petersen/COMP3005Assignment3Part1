@@ -14,5 +14,3 @@ the interface for interacting with the database. The program runs in a while-loo
 select one of the four functions and then taking further input from the user if the selected function requires arguments.
 ## 4 - Video Submission Link
 https://mediaspace.carleton.ca/media/OwenPetersen_COMP3005_Assignment3Part1/1_wutb60lr
-## 5 - GitHub Link
-https://github.com/owen-petersen/COMP3005Assignment3Part1

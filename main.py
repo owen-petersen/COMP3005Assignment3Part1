@@ -78,10 +78,10 @@ if __name__ == "__main__":
             case "4":
                 student_id = int(input("Provide the student id of the student you wish to remove: "))
                 database.deleteStudent(student_id)
-            case "quit":
+            case "quit": #ends the loop, exits the application
                 print("Exiting program.")
                 break
-            case _:
+            case _: #default case for match, never used
                 print()
 
     database.close() #close the connection when finished

@@ -12,4 +12,6 @@ project will also use python as the language for making a series of scripts to i
 that this assignment was a good oppourtunity to practice. The four functions are encapsulated in a class which acts as
 the interface for interacting with the database. The program runs in a while-loop, repeatedly prompting the user to
 select one of the four functions and then taking further input from the user if the selected function requires arguments.
-## 4 - GitHub Link
+## 4 - Video Submission Link
+## 5 - GitHub Link
+https://github.com/owen-petersen/COMP3005Assignment3Part1
